@@ -4,6 +4,8 @@ Backend Software Engineer focused on scalable APIs, fintech systems, and real-ti
 
 ## What I Build
 - Financial and trading systems
+- QA Engineer
+- DevOps Engineer
 - Backend APIs
 - Real-time event-driven systems
 - Mobile-powered backend infrastructure

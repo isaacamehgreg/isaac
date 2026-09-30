@@ -1,4 +1,4 @@
-# Isaac Ameh
+# Isaac Otugboko
 
 Backend Software Engineer focused on scalable APIs, fintech systems, and real-time infrastructure.
 
